@@ -1,4 +1,5 @@
-# http code response
+# [ HTTP Code Response ]
+<img src="https://d2v4zi8pl64nxt.cloudfront.net/how-to-fix-crawl-errors-in-google-search-console/57e1d3449b6cf5.21093800.png" wight="150" hight="150"/>
 Tools Untuk Check HTTP Code Response Situs 
 
 
@@ -16,7 +17,7 @@ $ php program.php
 Sehabis Itu Sihlahkan Edit File Sites.txt
 Dan Isi URL Atau Page-page Website Kalian ;)
 
-## Fitur 
+## [ Fitur ]
 ```
 200 => http or https normal
 404 => Not Found 
