@@ -27,4 +27,6 @@ Dan Isi URL Atau Page-page Website Kalian ;)
 Hasil Akan Di Save Menjadi File TXT 
 Untuk Melihat Gunakan Command cat
 
+```
 $ cat 200.txt
+```
